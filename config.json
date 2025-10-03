@@ -1,0 +1,13 @@
+{
+  "speech_model_path": "/home/ubuntu/ccpnd/models/vosk-model-small-en-us",
+  "keyword": "help",
+  "camera_device": "/dev/video1",
+  "video_save_path": "/home/ubuntu/kria_help_project/recordings",
+  "record_device": "plughw:1,0",
+  "alert": {
+    "method": "telegram",
+    "bot_token": "8395100522:AAHc-Yy2acAInfbI0eDqwQ2y1CwLZE9LDW8",
+    "chat_id": "1453708579",
+    "video_stream_url": "http://172.16.4.7:8080/stream"
+  }
+}
